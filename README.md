@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @khulan0808
-- 👀 I’m interested in video games, movies
+- 👋 Hi, I’m khulan from Mongolia 
+- 👀 I’m interested in video games, movies, kpop
 - 🌱 I’m currently learning c++, java, php ,html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kgantulga2@gmail.com
